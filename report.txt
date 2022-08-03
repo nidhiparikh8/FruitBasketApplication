@@ -1,0 +1,29 @@
+Total number of fruits 
+22
+
+Total count of distinct fruit types in the basket: 
+6
+
+Oldest fruit & age:
+ fruit-type  age-in-days
+    orange          6.0
+
+The number of each type of fruit in descending order: 
+fruit-type  count
+grapefruit      3
+    orange      3
+     apple      2
+ pineapple      2
+watermelon      2
+
+The various characteristics (count, color, shape, etc.) of each fruit by type:
+ fruit-type characteristic1 characteristic2  count
+     apple             red           sweet      2
+    orange           round           sweet      2
+ pineapple           sweet         prickly      2
+watermelon           heavy           green      2
+grapefruit          bitter         65757gf      1
+grapefruit          bitter          yellow      1
+grapefruit          yellow          bitter      1
+    orange           sweet           round      1
+

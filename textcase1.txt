@@ -1,0 +1,8 @@
+orange           round           sweet      5
+     apple             red           sweet      3
+grapefruit          bitter          yellow      2
+grapefruit          yellow          bitter      2
+ pineapple         prickly           sweet      2
+ pineapple           sweet         prickly      2
+watermelon           heavy           green      2
+     apple
